@@ -1,5 +1,5 @@
-# Django-Python Student-App
-App to ease student life
+# Crypto Exchange App
+Crpyto Exchange App Using ReactJS, Ethereum Blockchain, Typescript
 
 Creator: Klaus Peace @ Alziron Systems (https://alzironsystems.com)
 
